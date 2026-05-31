@@ -1,4 +1,4 @@
-package payroll.model.StandardEmployee;
+package payroll.model.standardEmployee;
 
 import static payroll.model.utils.Utils.sc;
 

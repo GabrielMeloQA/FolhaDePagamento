@@ -1,6 +1,6 @@
 package payroll.model.menu;
 
-import payroll.model.StandardEmployee.InitStandardEmployee;
+import payroll.model.standardEmployee.InitStandardEmployee;
 import payroll.model.commissionedEmployee.InitCommissionedEmployee;
 import payroll.model.printPayroll.InitPrintPayroll;
 import payroll.model.productionEmployee.InitProductionDataEmployee;

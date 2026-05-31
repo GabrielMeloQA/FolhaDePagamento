@@ -3,7 +3,7 @@ package payroll.data;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import payroll.model.StandardEmployee.StandardEmployee;
+import payroll.model.standardEmployee.StandardEmployee;
 import payroll.model.commissionedEmployee.CommissionedEmployee;
 import payroll.model.employee.Employee;
 import payroll.model.productionEmployee.ProductionEmployee;
@@ -12,6 +12,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@DisplayName("Testes Unitários - EmployeeRepository")
 class EmployeeRepositoryTest {
 
     @BeforeEach

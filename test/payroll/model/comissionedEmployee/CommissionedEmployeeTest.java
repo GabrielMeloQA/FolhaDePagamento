@@ -6,6 +6,7 @@ import payroll.model.commissionedEmployee.CommissionedEmployee;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@DisplayName("Testes Unitários - CommissionedEmployee")
 class CommissionedEmployeeTest {
 
     @Test

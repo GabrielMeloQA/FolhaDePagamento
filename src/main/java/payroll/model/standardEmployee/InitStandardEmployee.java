@@ -1,4 +1,4 @@
-package payroll.model.StandardEmployee;
+package payroll.model.standardEmployee;
 
 import payroll.data.DTOEmployeesData;
 import payroll.data.EmployeeRepository;

@@ -3,7 +3,7 @@ package payroll.data;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import payroll.enums.EmployeeType;
-import payroll.model.StandardEmployee.StandardEmployee;
+import payroll.model.standardEmployee.StandardEmployee;
 import payroll.model.commissionedEmployee.CommissionedEmployee;
 import payroll.model.employee.Employee;
 import payroll.model.productionEmployee.ProductionEmployee;

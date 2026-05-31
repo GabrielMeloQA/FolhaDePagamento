@@ -1,6 +1,6 @@
 package payroll.model.printPayroll;
 
-import payroll.model.StandardEmployee.StandardEmployee;
+import payroll.model.standardEmployee.StandardEmployee;
 import payroll.model.commissionedEmployee.CommissionedEmployee;
 import payroll.model.productionEmployee.ProductionEmployee;
 
